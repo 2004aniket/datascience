@@ -1,4 +1,4 @@
-pandas==2.2.2
+pandas==0.25.3
 pandas_profiling==3.2.0
 plotly==5.23.0
 pycaret==3.3.2
